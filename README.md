@@ -10,7 +10,5 @@ Then run it by:
 
 
 Remarks:
-
 1. I changed the generating rate of customers from every 3 seconds to every 2 seconds, for better observation of barber sleeeping, barber waking up and working, customer waiting in the waiting room, and customer leaving.
-
 2. pthread is only used for compiling, no pthread methods were used in c++ program.
