@@ -2,10 +2,12 @@
 
 Please save c++ file "main.cpp" to linux system, then compile it using the following commands on linux:
 
-  g++ -std=c++11 main.cpp -o main -pthread
+---
+g++ -std=c++11 main.cpp -o main -pthread
 
 Then run it by:
 
+---
   ./main
 
 
